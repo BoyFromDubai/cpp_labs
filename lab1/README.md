@@ -1,3 +1,3 @@
 
 # Task description
-![task](task.jpg)
+![task](lab1/task/task.jpg)
